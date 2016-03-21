@@ -10,7 +10,15 @@ namespace LoveFilm
     {
         static void Main(string[] args)
         {
+
+            AddAMethod(args);
             Console.WriteLine("Hello world");
+            Console.ReadLine();
+        }
+
+        private static void AddAMethod(string[] args)
+        {
+            throw new NotImplementedException();
         }
     }
 }

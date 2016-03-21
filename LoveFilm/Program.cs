@@ -19,6 +19,7 @@ namespace LoveFilm
         private static void AddAMethod(string[] args)
         {
             throw new NotImplementedException();
+            // DM change
         }
     }
 }
